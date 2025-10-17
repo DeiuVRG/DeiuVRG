@@ -18,10 +18,15 @@
 
 ### 🛠️ Tech stack (focus)
 
-<table align="center">
+<div align="center">
+
+<table>
   <tr>
-    <!-- COL STÂNGA: Systems / Programming -->
-    <td align="center" valign="top" style="padding:8px 16px;">
+    <th>Systems / Programming</th>
+    <th>Web</th>
+  </tr>
+  <tr>
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="32" alt="C" title="C"><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" alt="C++" title="C++"><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32" alt="C#" title="C#"><br>
@@ -32,7 +37,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" title="Git"><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="32" alt="Jenkins" title="Jenkins">
     </td>
-    <td align="center" valign="top" style="padding:8px 16px;">
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="HTML5" title="HTML5"><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="CSS3" title="CSS3"><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" title="JavaScript"><br>
@@ -40,16 +45,14 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="32" alt="Bootstrap" title="Bootstrap"><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="32" alt="Tailwind CSS" title="Tailwind CSS"><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="Node.js" title="Node.js"><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-           height="32" alt="Express" title="Express"
-           style="background:#ffffff;border-radius:6px;padding:2px"><br>
+      <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&labelColor=111111&style=for-the-badge" height="20" alt="Express" title="Express"><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="React" title="React"><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="32" alt="Azure" title="Azure">
     </td>
   </tr>
 </table>
 
-
+</div>
 
 > interest: embedded, automation software, CI/CD, tooling 
 
