@@ -1,10 +1,63 @@
-<!-- Stats generale -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeiuVRG&show_icons=true&include_all_commits=true&count_private=true)
+<!-- Profile README — DeiuVRG -->
+<div align="center">
 
-<!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeiuVRG&layout=compact)
+  <h1>Hi! I am Deiu 👋</h1>
+  <p><b>Student UPT – AC – IS</b> • Internship <b>Continental Automotive</b> (EE / software automation)</p>
 
-<!-- Streak -->
-![Streak](https://streak-stats.demolab.com?user=DeiuVRG&v=2)
+  <!-- Badges -->
+  <a href="https://github.com/DeiuVRG?tab=followers"><img alt="Followers"
+     src="https://img.shields.io/github/followers/DeiuVRG?style=flat&label=Followers"></a>
+  <a href="https://github.com/DeiuVRG"><img alt="Stars"
+     src="https://img.shields.io/github/stars/DeiuVRG?affiliations=OWNER%2CCOLLABORATOR&style=flat&label=Stars"></a>
+  <img alt="Profile Views"
+     src="https://komarev.com/ghpvc/?username=DeiuVRG&label=Views">
 
-![Profile Views](https://komarev.com/ghpvc/?username=DeiuVRG)
+</div>
+
+---
+
+### 🛠️ Tech stack (focus)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="28" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="28" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="28" alt="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="28" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="28" alt="Jenkins"/>
+</p>
+
+> interest: embedded, automation software, CI/CD, tooling 
+
+---
+
+### 📊 Stats
+<div align="center">
+
+  <!-- Stats + Top Langs in 2 rows -->
+  <img width="49%" alt="GitHub Stats"
+       src="https://github-readme-stats.vercel.app/api?username=DeiuVRG&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=GitHub%20Stats&theme=transparent&v=1" />
+
+  <img width="49%" alt="Top Languages"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeiuVRG&layout=compact&langs_count=8&theme=transparent&v=1" />
+
+  <!-- Streak -->
+  <img width="98%" alt="GitHub Streak"
+       src="https://streak-stats.demolab.com?user=DeiuVRG&theme=transparent&v=1" />
+</div>
+
+<!--
+Tips:
+- Dacă vreun card nu se încarcă, schimbă `&v=1` în `&v=2` ca să forțezi refreshul cache-ului GitHub.
+- „Top Languages” reflectă dimensiunea codului din repo-uri, nu timpul petrecut.
+-->
+
+---
+
+### 🚀 Highlights
+- proiecte / repo-uri reprezentative (pune-le „Pinned” din Profile → Customize your pins)
+- scule pe care le apreciez: clang-format, CMake, pytest, pre-commit
+
+### 📫 Contact
+- [(https://www.instagram.com/andreirusuvrg/)](https://www.instagram.com/andreirusuvrg/)
