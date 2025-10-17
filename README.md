@@ -20,18 +20,19 @@
 
 <table align="center">
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="28" alt="C" title="C"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="28" alt="C++" title="C++"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="28" alt="C#" title="C#"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="28" alt=".NET" title=".NET"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="Python" title="Python"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="28" alt="Bash" title="Bash"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="28" alt="Linux" title="Linux"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28" alt="Docker" title="Docker"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" alt="Git" title="Git"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="28" alt="Jenkins" title="Jenkins"></td>
+    <td><img height="28" alt="C" title="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></td>
+    <td><img height="28" alt="C++" title="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></td>
+    <td><img height="28" alt="C#" title="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></td>
+    <td><img height="28" alt=".NET" title=".NET" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg"></td>
+    <td><img height="28" alt="Python" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></td>
+    <td><img height="28" alt="Bash" title="Bash" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"></td>
+    <td><img height="28" alt="Linux" title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></td>
+    <td><img height="28" alt="Docker" title="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></td>
+    <td><img height="28" alt="Git" title="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></td>
+    <td><img height="28" alt="Jenkins" title="Jenkins" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"></td>
   </tr>
 </table>
+
 
 
 > interest: embedded, automation software, CI/CD, tooling 
@@ -48,9 +49,6 @@
   <img width="49%" alt="Top Languages"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeiuVRG&layout=compact&langs_count=8&theme=transparent&v=1" />
 
-  <!-- Streak -->
-  <img width="98%" alt="GitHub Streak"
-       src="https://streak-stats.demolab.com?user=DeiuVRG&theme=transparent&v=1" />
 </div>
 
 <!--
