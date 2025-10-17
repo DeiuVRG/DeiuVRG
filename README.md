@@ -2,7 +2,7 @@
 <div align="center">
 
   <h1>Hi! I am Deiu 👋</h1>
-  <p><b>Student UPT – AC – IS</b> • Internship <b>Continental Automotive</b> (EE / software automation)</p>
+  <p><b>Student UPT – AC – IS</b> • Internship <b>AUMOVIO</b> (EE / software automation)</p>
 
   <!-- Badges -->
   <a href="https://github.com/DeiuVRG?tab=followers"><img alt="Followers"
